@@ -24,7 +24,7 @@ python example_name.py
 ## Examples
 Browse through the examples directory to explore different Python programs. Each example comes with a detailed explanation in the source code.
 
-- [Programiz 1: Print Hello world!]()
+- [Programiz 1: Print Hello world!](./programiz_1.py)
 
 
 .
