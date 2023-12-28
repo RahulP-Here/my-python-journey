@@ -27,9 +27,9 @@ Browse through the examples directory to explore different Python programs. Each
 - [Programiz 1: Print Hello world!](./programiz_1.py)
 
 
-.
-.
-.
+.  
+.  
+.  
 Feel free to explore, learn, and contribute!
 
 <br>
