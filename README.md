@@ -29,6 +29,7 @@ Browse through the examples directory to explore different Python programs. Each
 - [Programiz 3: &nbsp; Calculate the square root!](./programiz_3.py)
 - [Programiz 4: &nbsp; Calculate the Area of a Triangle!](./programiz_4.py)
 - [Programiz 5: &nbsp; Solve Quadratic Equation!](./programiz_5.py)
+- [Programiz 6: &nbsp; Swap Two Variables!](./programiz_6.py)
 
 
 .  
