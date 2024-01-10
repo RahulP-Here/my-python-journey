@@ -30,6 +30,7 @@ Browse through the examples directory to explore different Python programs. Each
 - [Programiz 4: &nbsp; Calculate the Area of a Triangle!](./programiz_4.py)
 - [Programiz 5: &nbsp; Solve Quadratic Equation!](./programiz_5.py)
 - [Programiz 6: &nbsp; Swap Two Variables!](./programiz_6.py)
+- [Programiz 7: &nbsp; Generate a Random Number!](./programiz_7.py)
 
 
 .  
